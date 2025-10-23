@@ -50,4 +50,5 @@ Colorbar(f[1,2],scat) #making some colorbars to have the counts visible
 Colorbar(f[1,4],scat2)
 
 
+
 f
